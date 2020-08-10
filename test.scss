@@ -10,7 +10,7 @@ $padding: 8px;
 }
 
 .red{
-  color:red;
+  color: red;
 }
 .blue{
   color: blue;
@@ -88,7 +88,7 @@ h6 {
 .message{
   border: 1px solid #ccc;
   @include padding;
-  color: #2748B3;
+  color: #2748B3;color: #2748B3;
   background-color: #000;
   width: 100%
 }
